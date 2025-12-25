@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege">
+    <sys_scope_privilege action="INSERT_OR_UPDATE">
+        <operation>execute</operation>
+        <source_scope display_value="MyApp20251121">17e6a79ec351b2103bf77275e4013193</source_scope>
+        <status>allowed</status>
+        <sys_class_name>sys_scope_privilege</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-11-28 00:09:37</sys_created_on>
+        <sys_id>21eaf4a8c3e1f6103bf77275e40131e4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ResourceSupport</sys_name>
+        <sys_package display_value="MyApp20251121" source="x_1857450_myapp2_0">17e6a79ec351b2103bf77275e4013193</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MyApp20251121">17e6a79ec351b2103bf77275e4013193</sys_scope>
+        <sys_update_name>sys_scope_privilege_21eaf4a8c3e1f6103bf77275e40131e4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-11-28 00:09:37</sys_updated_on>
+        <target_name>ResourceSupport</target_name>
+        <target_scope display_value="Global">global</target_scope>
+        <target_type>sys_script_include</target_type>
+    </sys_scope_privilege>
+</record_update>
